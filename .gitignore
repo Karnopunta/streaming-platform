@@ -1,0 +1,5 @@
+.venv
+pubsub/json/__pycache__
+task_day1
+task_day2
+.DS_Store
